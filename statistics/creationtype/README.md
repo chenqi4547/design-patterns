@@ -4,7 +4,7 @@
 
 #### 结构
 
-![structure](.\README.assets\structure.png)
+![structure](./README.assets/structure.png)
 
 1. **产品** （Product） 将会对接口进行声明。 对于所有由创建者及其子类构建的对象， 这些接口都是通用的。
 
@@ -38,7 +38,7 @@
 
 #### 结构
 
-![structure](.\README.assets\structure-1615968499182.png)
+![structure](./README.assets/structure-1615968499182.png)
 
 1. **抽象产品** （Abstract Product） 为构成系列产品的一组不同但相关的产品声明接口。
 2. **具体产品** （Concrete Product） 是抽象产品的多种不同类型实现。 所有变体 （维多利亚/现代） 都必须实现相应的抽象产品 （椅子/沙发）。
